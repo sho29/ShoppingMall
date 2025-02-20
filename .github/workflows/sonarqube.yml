@@ -21,5 +21,4 @@ jobs:
         with:
           args: >
             -Dsonar.projectKey=sho29_ShoppingMall
-            -Dsonar.organization=https://sonarcloud.io/organizations/sho29/projects
             -Dsonar.sources=code
